@@ -1,0 +1,2 @@
+class EnqueteDeliveryDetail < ApplicationRecord
+end
